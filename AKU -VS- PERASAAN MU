@@ -1,0 +1,15 @@
+# IG BRUTE FORCE
+
+$ pkg install python2
+
+$ pkg install git
+
+$ pkg install tor
+
+$ pkg install bash
+
+$ pkg install jq
+
+before log into script running a tor!!!
+
+-GalagDW
